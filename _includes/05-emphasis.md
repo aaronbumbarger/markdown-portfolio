@@ -7,7 +7,7 @@ Below is a list of technical skills
 - JavaScript
 
 ### **What I'm Using:**
-- Atom.io**_
+- Atom.io
 - Visual Studio Code
 - Git Bash
 - GitHub Desktop
